@@ -1,5 +1,11 @@
 A simple calculator application implemented in Java Swing, offering basic arithmetic operations and decimal input support.
 
+
+
+https://github.com/MishuZero/Java_Project/assets/156060788/fec95379-a820-4834-92ff-b660965f5ee2
+
+
+
 <h3>Features:</h3>
 
 Basic Operations: Addition, subtraction, multiplication, division.
