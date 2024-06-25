@@ -22,7 +22,7 @@ Usage
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your_username/calculator-app.git
+git clone https://github.com/MishuZero/calculator-app.git
 Compile and run CalculatorApp.java to launch the calculator.
 
 
